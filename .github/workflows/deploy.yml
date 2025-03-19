@@ -1,3 +1,5 @@
+- name: Update PM2
+  run: npm install -g pm2
 name: Node.js CI
 
 on:
