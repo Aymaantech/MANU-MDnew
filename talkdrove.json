@@ -1,10 +1,10 @@
 {
-    "bot-name": "MANU-MD",
-    "description": "MANU-MD made for people on Sri Lanka & Other Countries...✨🇱🇰🌏❤",
-    "logo": "https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg",
+    "bot-name": "ZMIIX",
+    "description": "ZMIIX أسهل بوت من ناحية كل شيئ...🔥❤🦇",
+    "logo": "https://i.ibb.co/4ZLkz8L1/IMG-20250102-WA0065.jpg",
     "keywords": ["bot", "whatsapp", "automation", "manumd", "byimaxz"],
     "documentation-link": "https://manul-ofc-web-tau.vercel.app/",
-    "owner-verification":"danajxima@gmail.com",
+    "owner-verification":"zzmix7323@gmail.com",
   
     "env": {
       "SESSION_ID": {
