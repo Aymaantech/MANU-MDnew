@@ -31,18 +31,18 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div>
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029Vb46XsB5fM5ZsHwPgC0O">
+  <a href="https://whatsapp.com/channel/0029Vay2jSnFcowEU40Clm11">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Follow WhatsApp Channel"/>
   </a>
 </div>
 
 ---
 
-### Step 2: Get Pair Code ( Do Not Use Business Whatsapp, if you use business whatsapp you can't see buttons and commands !!!)
-### Business Whatsapp වලින් බොට් හදන්න එපා ( බොට්ගෙ බටන් වැඩ නෑ...!!! )
-### Normal Whatsapp Yse කරන්න...❤
+### الخطوة 2: احصل على رمز الزوج (لا تستخدم واتساب للأعمال، إذا كنت تستخدم واتساب للأعمال فلن تتمكن من رؤية الأزرار والأوامر !!!) 
+### لا تنشئ روبوتات من واتساب للأعمال (أزرار الروبوتات لا تعمل ... !!!) 
+### استخدم واتساب العادي نعم ...
 
-Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to get your pairing code.
+انشر البوت واربطه بسهولة بحسابك على واتساب عبر رمز الاقتران. انقر على الزر أدناه للحصول على رمز الاقتران.
 
 <div align="center">
   <a href="https://manul-ofc-web-tau.vercel.app/">
@@ -50,14 +50,13 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
   </a>
 </div>
 
-### After getting your session-id, add it to settings.js file
+### بعد الحصول على معرف الجلسة، قم بإضافته إلى ملف settings.js
 
 ---
 
-### Step 3: Deploy Now
+### الخطوة 3: النشر الآن
 
-For further customization and setup guidance, click the button below:
-
+لمزيد من التخصيص وإرشادات الإعداد، انقر فوق الزر أدناه:
 <div align="center">
   <a href="https://youtube.com/@manulofficialtech?si=Dm30fopW3C4RZqD7">
     <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
@@ -68,7 +67,7 @@ For further customization and setup guidance, click the button below:
 </div>
 
 
-### Free & Paid Hosting Options
+### خيارات الاستضافة المجانية والمدفوعة
 
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/)
@@ -81,7 +80,7 @@ For further customization and setup guidance, click the button below:
 
 [![Deploy to Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Deploy%20to-Hugging%20Face-blue)](https://huggingface.co/login?next=%2Fspaces%2Fwhatsapp-bot%2Fmanumd%3Fduplicate%3Dtrue)
 
-### Additional Hosting Panels
+### لوحات استضافة إضافية
 
 <a href="https://account.solarhosting.cc/" target="_blank">
   <img src="https://img.shields.io/badge/Solar_Hosting-FF6B6B?style=for-the-badge&logo=server&logoColor=white" alt="Solar Hosting"/>
@@ -139,7 +138,7 @@ For further customization and setup guidance, click the button below:
 
 ---
 
-## COPY WORKFLOW CODE 👇💗
+## نسخ كود سير العمل
 
 ```
 name: Node.js CI
@@ -177,37 +176,31 @@ jobs:
       run: npm start
 
 ```
-### Join Us
+### انضم إلينا
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029Vb46XsB5fM5ZsHwPgC0O">
+  <a href="https://whatsapp.com/channel/0029Vay2jSnFcowEU40Clm11">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
 
 ---
 
-## ⚙️ Features
-- **Full Buttons** New Buttons Added For Download Commands And Bot Menu
-- **Free Movie Commands** Cinesubz & Sinhalasub And More Free Movie Download Available
-- **Antidele Available** All Messages And Medias Antidele Available
-- **Tag all group members** with the `.tagall` command
-- **Admin restricted usage** (Only group admins can use certain commands)
-- **Games** like Tic-Tac-Toe for interactive group engagement
-- **Text-to-Speech** with `.tts`
-- **Sticker creation** with `.sticker` 
-- **Anti-link detection** for group safety
-- **Warn and manage group members** with admin control
-- **And More** Available 200+ Commands
----
-
-## 📖 About
-
-The Manu-MD WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
-
-It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
-
----
+### المميزات 
+- **أزرار كاملة** تمت إضافة أزرار جديدة لأوامر التنزيل وقائمة الروبوت 
+- **أوامر أفلام مجانية** Cinesubz و Sinhalasub والمزيد من تنزيل الأفلام المجاني متاح
+-  **Antidele متاح** جميع الرسائل والوسائط متاحة -
+  -  **وسم جميع أعضاء المجموعة** باستخدام الأمر ``.tagall`` -
+  -  **استخدام مقيد من قبل المسؤول** (يمكن فقط لمسؤولي المجموعة استخدام أوامر معينة)
+  -  **ألعاب** مثل Tic-Tac-Toe للمشاركة التفاعلية في المجموعة
+  -  **تحويل النص إلى كلام** مع ``.tts``
+  -  **إنشاء ملصق** مع ``.sticker`
+  -  **اكتشاف الارتباط المضاد** لسلامة المجموعة
+   - **تحذير وإدارة أعضاء المجموعة** مع التحكم من قبل المسؤول
+   - **والمزيد** متاح أكثر من 200 أمر
+   - ---
+ ## حول يساعد روبوت Manu-MD WhatsApp مسؤولي المجموعة من خلال تزويدهم بأدوات لإدارة مجموعات WhatsApp الكبيرة بكفاءة. يستخدم الروبوت مكتبة Baileys للتفاعل مع واجهة برمجة تطبيقات WhatsApp Web ويدعم ميزات الأجهزة المتعددة. إنه خفيف الوزن، ويمكن تخصيصه بسهولة لإضافة المزيد من الأوامر حسب احتياجاتك. يعمل البوت في بيئة Node.js، ويوفر مصادقةً قائمةً على رمز الاستجابة السريعة لربط حساب واتساب الخاص بك. 
+ ---
 
 ## 🛠️ Setup & Installation
 
