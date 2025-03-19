@@ -33,3 +33,8 @@ jobs:
 
     - name: Start application
       run: npm start
+- name: Stop PM2 bot
+  run: pm2 stop ZMIIX-TECH || echo "Bot was not running"
+
+- name: Run bot manually for debug
+  run: node manu.js
