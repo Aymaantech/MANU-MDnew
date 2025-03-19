@@ -20,19 +20,19 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : MANU-MD
+//  * @project_name : ZMIIX-tech
 //  * @author : Manul Official
 //  * @youtube : https://www.youtube.com/@ManulOfficialTech
 //  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
 //*
 //*
-//base by Manul Official
-//GitHub: @manulofficial7
-//WhatsApp: +94742274855
+//base by zmiix tech
+//GitHub: zmiixtech
+//WhatsApp: +212 776003604
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
-//   * Created By Github: manulofficial7.
-//   * Credit To Manul Official
-//   * © 2024 MANU-MD-V7.
+//   * Created By Github: zmiixtech
+//   * Credit To zmiix tech
+//   * © 2025 zmiix tech. 
 // ⛥┌┤
 // */
 
@@ -43,7 +43,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID === undefined ? '' : process.env.SESSION_ID,
+Session_id : process.env.Manu-MD&cbUTGaCT#gz7saSY-L_zQv34scY66qIdPY-bCwTH8Yhi1XKoq8Pw === undefined ? '' : process.env.SESSION_ID,
 PREFIX: process.env.PREFIX || '.' ,
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
 SUDO: process.env.SUDO === undefined ? '94742274855' : process.env.SUDO,
