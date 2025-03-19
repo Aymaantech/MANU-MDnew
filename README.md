@@ -1,4 +1,4 @@
-# 🤖 ZMIIX TECH V1 ( With Full Buttons )  💗
+# 🤖 ZMIIX TECH V1.0 beta ( With Full Buttons )  💗
 
 ## Zmiix-Tech kantmna mn ay wahd yd3mnaa ♡... 
 
@@ -11,7 +11,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@ManulOfficialTech"> 
+  <a href="https://youtube.com/@zmix2.1?si=Rdi2YnZTZCyHFTh_"> 
     <img src="https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg" alt="Manu-MD WA Bot" height="300" width="650">
   </a> 
 </div>
