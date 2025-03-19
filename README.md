@@ -12,17 +12,17 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://youtube.com/@zmix2.1?si=Rdi2YnZTZCyHFTh_"> 
-    <img src="https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg" alt="Manu-MD WA Bot" height="300" width="650">
+    <img src="https://i.ibb.co/4ZLkz8L1/IMG-20250102-WA0065.jpg" alt="Manu-MD WA Bot" height="650" width="650">
   </a> 
 </div>
 
 ---
 
-## 🚀 Steps to Deploy
+## 🚀 خطوات النشر
 
-### Step 1: Fork the Repository
+### الخطوة 1: تقسيم المستودع
 
-Click the button below to fork the Manu-MD Bot repository to your GitHub account:
+انقر على الزر أدناه لتقسيم مستودع Zmiixtech إلى حساب GitHub الخاص بك:
 
 <div align="center">
   <a href="https://github.com/DINUABCD/MANU-MDnew/fork">
