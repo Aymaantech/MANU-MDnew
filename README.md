@@ -1,12 +1,12 @@
-# 🤖 Manu-MD WA Bot V7 ( With Full Buttons )  💗
+# 🤖 ZMIIX TECH V1 ( With Full Buttons )  💗
 
-## Manu-MD Bot යනු සම්පූර්ණ බටන් රොබෝ කෙනෙකි...❤
+## Zmiix-Tech kantmna mn ay wahd yd3mnaa ♡... 
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Manu-MD;Multi+Device+Whatsapp+Bot;Coded+By+Manul+Official" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Zmiix-tech;awl+bot+liya+f+ WhatsApp;Coded+By+zmiix+tech" alt="Typing SVG" />
   </a> 
 </div> 
 
